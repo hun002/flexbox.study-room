@@ -1,0 +1,22 @@
+.logo {
+    width: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+    margin: 0 auto; 
+}
+
+.question {
+    position: fixed;
+    right: 850px;
+    letter-spacing : 2px;
+}
+
+a {
+    text-decoration: none;
+    color: rgb(37, 30, 99);
+  }
+  a:hover {
+    text-decoration: underline;
+  }
+  
