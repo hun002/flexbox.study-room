@@ -1,0 +1,28 @@
+.box {
+    color: rgba(240, 248, 255, 0);
+}
+
+.mom {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+}
+
+.red {
+    background-color: rgb(247, 127, 127);
+    width: 200px;
+    height: 200px;
+    position: relative;
+}
+
+.blue {
+    background-color: rgb(156, 233, 252);
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    top: 50px;
+    left: 50px;
+    align-self: center;
+}
+
+

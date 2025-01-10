@@ -1,0 +1,25 @@
+.mom {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+.box {
+    width: 100px;
+    height: 100px;
+    color: rgba(240, 248, 255, 0);
+}
+
+.red {
+    background-color: rgb(247, 127, 127);
+}
+
+.blue {
+    background-color: rgb(156, 233, 252);
+    align-self: center;
+}
+
+.yellow {
+    background-color: rgb(244, 252, 131);
+    align-self: flex-end;
+}

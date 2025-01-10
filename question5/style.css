@@ -1,0 +1,31 @@
+.box {
+    width: 130px;
+    height: 130px;
+    color: rgba(240, 248, 255, 0);
+}
+
+.big-box {
+    width: 450px;
+    height: 200px;
+    color: rgba(240, 248, 255, 0);
+    background-color: rgb(247, 127, 127);
+    position: absolute;
+    bottom: 0;
+    right: 0;
+}
+
+
+.bottom-box {
+    background-color: rgb(156, 233, 252);
+    position: absolute;
+    left: 0;
+    bottom: 0;
+
+}
+
+.top-box {
+    background-color: rgb(244, 252, 131);
+    position: absolute;
+    top: 0;
+    right: 0;
+}
